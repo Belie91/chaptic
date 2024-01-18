@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chaptic</string>
+    <string name="royal_journey_with_chaptic">ROYAL JOURNEY WITH CHAPTIC</string>
+    <string name="next">NEXT</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="login">LOGIN</string>
+    <string name="back">BACK</string>
+</resources>
